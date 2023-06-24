@@ -1,0 +1,2 @@
+# szalag
+Szállítószalag
